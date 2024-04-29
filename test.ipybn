@@ -6,7 +6,7 @@ import datetime
 import pandas as pd
 from datetime import datetime
 
-api_key = 'e1ed8f4fb579f8537d1d1d263f4708b8' # where you input your Api key
+api_key = "your API key" # where you input your API key
 base_url = 'https://api.stlouisfed.org/fred/'
 obs_endpoint = 'series/observations'
 
